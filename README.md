@@ -6,3 +6,5 @@ This assignment demonstrates system automation techniques using **Bash scripting
 ---
 
 ## [Task 1](./task_1) – University Data Centre Process & Resource Management System
+
+## [Task 2](./task_2) – University High Performance Computing Job Scheduler

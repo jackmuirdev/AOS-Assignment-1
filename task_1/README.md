@@ -69,6 +69,7 @@ The script maintains a log file: `system_monitor_log.txt`
 
 ### Exit Mechanism
 
+- The user can exit the program gracefully through the menu.
 - Implements a safe exit confirmation (Y/N).
 - Logs exit activity before terminating.
 
