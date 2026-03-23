@@ -1,6 +1,6 @@
 # Task 1 – University Data Centre Process & Resource Management System
 
-**File:** `task-1.sh`
+**File:** `task_1.sh`
 
 This script simulates a system administration tool used to manage shared Linux servers in a university data centre environment.
 
@@ -19,13 +19,13 @@ It provides a **menu-driven interface** that allows administrators to:
 Before running the script, make it executable:
 
 ```bash
-chmod +x task-1.sh
+chmod +x task_1.sh
 ```
 
 ### 2. Execute the Script
 
 ```bash
-./task-1.sh
+./task_1.sh
 ```
 
 ## Features
